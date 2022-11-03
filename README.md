@@ -1,2 +1,3 @@
-# svd-av1
-Trabalho AV1 - Decomposição por valores singulares
+# Secomposição por Valores Singulares
+Nome: Arilson Bolivar Ferreira
+
